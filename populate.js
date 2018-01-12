@@ -3,23 +3,23 @@ const { StoryItem } = require('./models')
 const storyItems = [
   {
     item: 'giraffe',
-    picture: 'https://tinyurl.com/y8qvygxl',
+    picture: 'https://tinyurl.com/y9pyg5wf',
     category: 'Animals',
   },
 
   {
     item: 'elephant',
-    picture: 'https://tinyurl.com/y96ufmc9',
+    picture: 'https://tinyurl.com/ycbw2j6l',
     category: 'Animals',
   },
   {
     item: 'R2D2',
-    picture: 'https://tinyurl.com/y92w7r6k',
+    picture: 'https://tinyurl.com/ybrmb2bj',
     category: 'StarWars',
   },
   {
     item: 'Luke',
-    picture: 'https://tinyurl.com/yaopd66j',
+    picture: 'https://tinyurl.com/yc7ves83',
     category: 'StarWars',
   }
 ]

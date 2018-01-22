@@ -8,4 +8,4 @@ const storyItemSchema = new Schema({
   category: { type: String, required: true }
 })
 
-module.exports = mongoose.model('storyItems', storyItemSchema)
+module.exports = mongoose.model('story-items', storyItemSchema)

@@ -18,8 +18,8 @@ const storyItems = [
     category: 'StarWars',
   },
   {
-    item: 'Luke',
-    picture: 'https://tinyurl.com/yc7ves83',
+    item: 'X-Wing',
+    picture: 'https://tinyurl.com/y75r54xn',
     category: 'StarWars',
   }
 ]
